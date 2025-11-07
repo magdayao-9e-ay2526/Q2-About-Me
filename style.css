@@ -1,0 +1,19 @@
+body {
+
+}
+
+.hero-image {
+    background-image: url(Starry\ Sky.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+    text-align: center;
+    padding: 10px;
+}
